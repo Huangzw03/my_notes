@@ -1,7 +1,7 @@
 (function () {
   "use strict";
 
-  var TAB_ORDER = ["mine-paizi", "mine-rag", "mine-mianshi", "mine-agent", "mine-qoder", "mine-jishu", "route", "java", "agent", "redis", "mysql", "llm", "rag", "concurrent", "mq", "net"];
+  var TAB_ORDER = ["mine-paizi", "mine-rag", "mine-mianshi", "mine-agent", "mine-qoder", "mine-jishu", "route", "java", "agent", "redis", "mysql", "llm", "rag", "langchain", "concurrent", "mq", "net"];
   var TAB_SHORT = {
     overview: "总览",
     mine: "我的整理",
@@ -12,6 +12,7 @@
     mysql: "MySQL",
     llm: "大模型",
     rag: "RAG",
+    langchain: "LangChain",
     concurrent: "并发编程",
     mq: "消息队列",
     net: "计算机网络",

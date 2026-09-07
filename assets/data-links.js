@@ -21,6 +21,7 @@ window.LINKS = {
         { key: "redis", icon: "🟥", title: "2小时速通Redis", token: "ANhfwaejJilh7kklJpPcIk0inlU", status: "full" },
         { key: "mysql", icon: "🐬", title: "2小时速通MySQL", token: "IbtNwN7oPipPHLk9cMMcHqMnnFf", status: "full" },
         { key: "agent", icon: "🤖", title: "4小时速通Agent 面试", token: "MyrjwtWSNimJ5IkDUPkcGRLfnRa", status: "full" },
+        { key: "langchain", icon: "🦜", title: "LangChain 1.2 系列讲解（尚硅谷）", token: "", status: "full", local: true, note: "44 题 · 10 章：概述 / 模型 / LangSmith / 提示词 / 工具 / 结构化输出 / Agent / 中间件 / 记忆 / RAG" },
         { key: "concurrent", icon: "⚡", title: "2小时速通并发编程", token: "XmklwlrvAiQ7cXkwpXpcOuQen6f", status: "full" },
         { key: "mq", icon: "📨", title: "2小时速通消息队列", token: "GB6XwPLvEi0f41kVz7Ocl0GcnVh", status: "full" },
         { key: "rag", icon: "🔍", title: "4小时速通RAG（更新ing）", token: "CQxJwGWaTikOJEkGPb3cAfhinMh", status: "full" },
